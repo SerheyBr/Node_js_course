@@ -4,7 +4,7 @@
   "description": "test",
   "main": "test.js",
   "scripts": {
-    "start": "node ./lessons/path.js"
+    "start": "node ./lessons/file-sistem.js"
   },
   "author": "",
   "license": "ISC",
