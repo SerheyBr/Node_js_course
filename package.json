@@ -4,13 +4,15 @@
   "description": "test",
   "main": "test.js",
   "scripts": {
-    "start": "node ./lessons/file-sistem.js"
+    "start": "node ./lessons/events.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cross-env": "^7.0.3",
     "dotenv": "^16.4.5",
     "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
   }
 }
